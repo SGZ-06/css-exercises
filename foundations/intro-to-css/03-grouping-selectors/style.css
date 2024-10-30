@@ -1,0 +1,13 @@
+.first-class {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.second-class {
+    background-color: hsl(62, 100%, 50%);
+}
+
+.first-class, .second-class {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
